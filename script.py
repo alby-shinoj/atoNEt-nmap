@@ -3,7 +3,7 @@ import subprocess
 from datetime import datetime
 
 # Define IP ranges to scan
-ip_ranges = ["192.168.2.0/24", "192.168.3.0/24"]
+ip_ranges = ["<ip>", "<ip>"]
 
 # Define sensitive ports (e.g., FTP, SSH, SMB, RDP, etc.)
 sensitive_ports = {
